@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @slsavinda
+- 👋 Hi, I’m savinda
 - 👀 I’m interested in ...වැල
 - 🌱 I’m currently learning ...වැල
 - 💞️ I’m looking to collaborate on ...වැල
