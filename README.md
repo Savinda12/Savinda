@@ -20,8 +20,6 @@ You can use the website to generate badges: https://shields.io/
 - 🌱 I’m currently learning Python And java; 
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I'm Still Student;
-- 📫 How to reach me: https://t.me/sirimath20 savindagihan63@gmail.com
-
 
 **Languages and Tools:** 
 
@@ -66,7 +64,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 Reach out to me 👓
 
-|  <a href="https://t.me/IM_XD/"><img src="https://icon-library.net//images/icon-programmer/icon-programmer-14.jpg" width="150px" height="150px" /></a> |
+|  <a href="https://t.me/IM_XD/"><img src="https://telegra.ph/file/8d42df9f3324809af495d.jpg" width="150px" height="150px" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
 |       **[Savinda Gihan](https://t.me/IM_XD)**                                                                                |
 |
