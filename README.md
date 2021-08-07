@@ -60,15 +60,15 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 # Follow me on
 
 <p align="left">
-<a href="https://t.me/Sirimath20" target="blank"><img align="center" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/1766858341556105723-512.png" alt="bhanot_kushal" height="40" width="40" /></a> &nbsp;&nbsp;
+<a href="https://t.me/IM_XD" target="blank"><img align="center" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/1766858341556105723-512.png" alt="bhanot_kushal" height="40" width="40" /></a> &nbsp;&nbsp;
 
 
 
 Reach out to me 👓
 
-|  <a href="https://t.me/Sirimath20/"><img src="https://icon-library.net//images/icon-programmer/icon-programmer-14.jpg" width="150px" height="150px" /></a> |
+|  <a href="https://t.me/IM_XD/"><img src="https://icon-library.net//images/icon-programmer/icon-programmer-14.jpg" width="150px" height="150px" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
-|       **[Savinda Gihan](https://t.me/Sirimath20)**                                                                                |
+|       **[Savinda Gihan](https://t.me/IM_XD)**                                                                                |
 |
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
