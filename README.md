@@ -15,7 +15,7 @@ You can use the website to generate badges: https://shields.io/
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 👨🏽‍💻 I’m currently working on [github](https://github.com/Savinda12);
+- 👨🏽‍💻 I’m currently working on [github](https://github.com/sirimathxd);
 - 🌱 I’m currently learning Python And java; 
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I'm Still Student;
@@ -63,9 +63,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 Reach out to me 👓
 
-|  <a href="https://t.me/IM_XD/"><img src="https://telegra.ph/file/8d42df9f3324809af495d.jpg" width="150px" height="150px" /></a> |
+|  <img src="https://telegra.ph/file/8d42df9f3324809af495d.jpg" width="150px" height="150px" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
-|       **[Savinda Gihan](https://t.me/IM_XD)**                                                                                |
+|       **[Sirimath]**                                                                                |
 |
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
