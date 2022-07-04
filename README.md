@@ -57,7 +57,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 # Follow me on
 
 <p align="left">
-<a href="https://t.me/IM_XD" target="blank"><img align="center" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/1766858341556105723-512.png" alt="bhanot_kushal" height="40" width="40" /></a> &nbsp;&nbsp;
+<a href="" target="blank"><img align="center" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/1766858341556105723-512.png" alt="bhanot_kushal" height="40" width="40" /></a> &nbsp;&nbsp;
 
 
 
